@@ -1,24 +1,28 @@
 <h2> Hello, <a href="https://vhalentinogamgenora.com/">Vhalen</a> here <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30px"></h2>
 
-### About me...  <img src="https://github.com/VhalennnG/VhalennnG/blob/main/image/shooting-stars-gradient.gif" width="27"> 
+### About me  <img src="https://github.com/VhalennnG/VhalennnG/blob/main/image/shooting-stars-gradient.gif" width="27"> 
 I'm a freelance software engineer based in Indonesia.
 I'm a 100% self-taught engineer, a fast learner, and a detail-oriented creator.
 My passion is to work with extremely talented people and collaborate to make products that would make an immediate impact.
 
 
-### 📬 Find me at
-[![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/Defcon27/)](https://github.com/Defcon27/) 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hemanthkollipara/)](https://www.linkedin.com/in/hemanthkollipara)
-[![Hackerrank Badge](https://img.shields.io/badge/-Hackerrank-2EC866?style=flat-square&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/Defcon27)](https://www.hackerrank.com/Defcon27)
-[![Stackoverflow Badge](https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/11534375/hemanth-kollipara)](https://stackoverflow.com/users/11534375/hemanth-kollipara)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:defcon.sentinal95@gmail.com)](mailto:defcon.sentinal95@gmail.com)
-[![GeeksforGeeks Badge](https://img.shields.io/badge/-GeeksforGeeks-0F9D58?style=flat-square&logo=GeeksforGeeks&logoColor=white&link=https://auth.geeksforgeeks.org/user/hemanthkollipara/articles)](https://auth.geeksforgeeks.org/user/hemanthkollipara/articles)
+### 📬 Contact me at
+[![Github Badge](https://img.shields.io/badge/-Github-9B9B9B?style=flat-square&logo=Github&logoColor=white&link=https://github.com/VhalennnG)](https://github.com/VhalennnG)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vhalentino-gamgenora-0b701a221)](https://www.linkedin.com/in/vhalentino-gamgenora-0b701a221)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vhalentinog@gmail.com)](mailto:vhalentinog@gmail.com)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-26A5E4?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/Vhalen_G)](https://t.me/Vhalen_G)
+[![Discord Badge](https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=Discord&logoColor=white&link=https://discordapp.com/users/688687260148957185)](https://discordapp.com/users/688687260148957185)
+[![Reddit Badge](https://img.shields.io/badge/-Reddit-FF4500?style=flat-square&logo=Reddit&logoColor=white&link=https://www.reddit.com/user/Vhalen_G)](https://www.reddit.com/user/Vhalen_G)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/vhalen_g?t=SC5QSDTBjJo-RPNxigDvMg&s=09)](https://twitter.com/vhalen_g?t=SC5QSDTBjJo-RPNxigDvMg&s=09)
 
+
+
+<!-- 
 
   
 ### 🖥️ My DevSetup
 <img src="https://img.shields.io/badge/Legion-555555.svg?&style=flat-square&logo=Lenovo&logoColor=E2231A"> <img src="https://img.shields.io/badge/Windows-555555.svg?&style=flat-square&logo=windows&logoColor=0078D6"> <img src="https://img.shields.io/badge/Chrome-555555.svg?&style=flat-square&logo=google-chrome&logoColor=FABC0C"> <img src="https://img.shields.io/badge/VS Code-555555?style=flat-square&logo=visual-studio-code&logoColor=007ACC"> <img src="https://img.shields.io/badge/Terminal-555555.svg?&style=flat-square&logo=powershell&logoColor=white"> <img src="https://img.shields.io/badge/Jupyter-555555.svg?&style=flat-square&logo=jupyter&logoColor=F37626"> <img src="https://img.shields.io/badge/Spotify-555555.svg?&style=flat-square&logo=spotify&logoColor=1ED760"> 
-
+ -->
 ### ⚙️ Some Tool and Tech I use
 <code><img height="30" src="https://avatars0.githubusercontent.com/u/1525981?s=200&v=4"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
@@ -38,8 +42,11 @@ My passion is to work with extremely talented people and collaborate to make pro
 
 
 ### 🚀 Quick Stats
-<p align="center">
-<img width="450" align="left" src="https://github-readme-stats-defcon27.vercel.app/api?username=Defcon27&show_icons=true&line_height=21&theme=react" alt="Defcon27's Github Stats" />
+<!-- <p align="center">
+<img width="450" align="left" src="https://github-readme-stats-defcon27.vercel.app/api?username=Defcon27&show_icons=true&line_height=21&theme=react" alt="Defcon27's Github Stats" /> -->
+![vhalennng's Github Stats](https://github-readme-stats.vercel.app/api?username=vhalennng&show_icons=true&border_radius=20&bg_color=0d1117&text_color=c9d1d9&title_color=58a6ff&icon_color=58a6ff&hide_border=true) <br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vhalennng&layout=compact&border_radius=20&bg_color=0d1117&text_color=c9d1d9&title_color=58a6ff&icon_color=58a6ff&hide_border=true)
+
 <!-- <img width="340" height="155" align="center" 
      src="https://github-readme-stats-defcon27.vercel.app/api/top-langs/?username=Defcon27&langs_count=6&hide=handlebars,jupyter notebook,css&theme=react&line_height=27&layout=compact" /> -->
 </p>
