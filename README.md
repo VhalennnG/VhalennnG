@@ -1,4 +1,4 @@
-<h2> Hello, <a href="https://vhalentinogamgenora.com/">Vhalen</a> here <img src="https://github.com/VhalennnG/VhalennnG/blob/main/image/hello.gif" height="30px" ></h2>
+<h2> Hello, <a href="https://vhalentinogamgenora.com/">Vhalen</a> here <img src="https://github.com/VhalennnG/VhalennnG/blob/main/images/hello.gif" height="29px" ></h2>
 
 
 ## Contact me at <img src="https://github.com/VhalennnG/VhalennnG/blob/main/image/shooting-stars-gradient.gif" width="27"> 
