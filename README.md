@@ -1,21 +1,19 @@
-<h2> Hello, <a href="https://vhalentinogamgenora.com/">Vhalen</a> here <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30px"></h2>
+<h2> Hello, <a href="https://vhalentinogamgenora.com/">Vhalen</a> here <img src="https://github.com/VhalennnG/VhalennnG/blob/main/image/hello.gif" height="30px" ></h2>
 
-### About me  <img src="https://github.com/VhalennnG/VhalennnG/blob/main/image/shooting-stars-gradient.gif" width="27"> 
+
+## Contact me at <img src="https://github.com/VhalennnG/VhalennnG/blob/main/image/shooting-stars-gradient.gif" width="27"> 
+[![Github Badge](https://img.shields.io/badge/-Github-9B9B9B?style=flat&logo=Github&logoColor=white&link=https://github.com/VhalennnG)](https://github.com/VhalennnG)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vhalentino-gamgenora-0b701a221)](https://www.linkedin.com/in/vhalentino-gamgenora-0b701a221)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:vhalentinog@gmail.com)](mailto:vhalentinog@gmail.com)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-26A5E4?style=flat&logo=Telegram&logoColor=white&link=https://t.me/Vhalen_G)](https://t.me/Vhalen_G)
+[![Discord Badge](https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=Discord&logoColor=white&link=https://discordapp.com/users/688687260148957185)](https://discordapp.com/users/688687260148957185)
+[![Reddit Badge](https://img.shields.io/badge/-Reddit-FF4500?style=flat&logo=Reddit&logoColor=white&link=https://www.reddit.com/user/Vhalen_G)](https://www.reddit.com/user/Vhalen_G)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white&link=https://twitter.com/vhalen_g?t=SC5QSDTBjJo-RPNxigDvMg&s=09)](https://twitter.com/vhalen_g?t=SC5QSDTBjJo-RPNxigDvMg&s=09)
+
+<h2> About Me  <img src="https://github.com/VhalennnG/VhalennnG/blob/main/image/shooting-stars-gradient.gif" width="28" margin="20"> </h2>
 I'm a freelance software engineer based in Indonesia.
 I'm a 100% self-taught engineer, a fast learner, and a detail-oriented creator.
 My passion is to work with extremely talented people and collaborate to make products that would make an immediate impact.
-
-
-### 📬 Contact me at
-[![Github Badge](https://img.shields.io/badge/-Github-9B9B9B?style=flat-square&logo=Github&logoColor=white&link=https://github.com/VhalennnG)](https://github.com/VhalennnG)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vhalentino-gamgenora-0b701a221)](https://www.linkedin.com/in/vhalentino-gamgenora-0b701a221)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vhalentinog@gmail.com)](mailto:vhalentinog@gmail.com)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-26A5E4?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/Vhalen_G)](https://t.me/Vhalen_G)
-[![Discord Badge](https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=Discord&logoColor=white&link=https://discordapp.com/users/688687260148957185)](https://discordapp.com/users/688687260148957185)
-[![Reddit Badge](https://img.shields.io/badge/-Reddit-FF4500?style=flat-square&logo=Reddit&logoColor=white&link=https://www.reddit.com/user/Vhalen_G)](https://www.reddit.com/user/Vhalen_G)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/vhalen_g?t=SC5QSDTBjJo-RPNxigDvMg&s=09)](https://twitter.com/vhalen_g?t=SC5QSDTBjJo-RPNxigDvMg&s=09)
-
-
 
 <!-- 
 
@@ -23,6 +21,8 @@ My passion is to work with extremely talented people and collaborate to make pro
 ### 🖥️ My DevSetup
 <img src="https://img.shields.io/badge/Legion-555555.svg?&style=flat-square&logo=Lenovo&logoColor=E2231A"> <img src="https://img.shields.io/badge/Windows-555555.svg?&style=flat-square&logo=windows&logoColor=0078D6"> <img src="https://img.shields.io/badge/Chrome-555555.svg?&style=flat-square&logo=google-chrome&logoColor=FABC0C"> <img src="https://img.shields.io/badge/VS Code-555555?style=flat-square&logo=visual-studio-code&logoColor=007ACC"> <img src="https://img.shields.io/badge/Terminal-555555.svg?&style=flat-square&logo=powershell&logoColor=white"> <img src="https://img.shields.io/badge/Jupyter-555555.svg?&style=flat-square&logo=jupyter&logoColor=F37626"> <img src="https://img.shields.io/badge/Spotify-555555.svg?&style=flat-square&logo=spotify&logoColor=1ED760"> 
  -->
+ 
+ 
 ### ⚙️ Some Tool and Tech I use
 <code><img height="30" src="https://avatars0.githubusercontent.com/u/1525981?s=200&v=4"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
