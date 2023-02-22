@@ -105,7 +105,7 @@
     </td>
     <td align="center" width="100">
       <a href="#tech-stack">
-        <img src="https://github.com/VhalennnG/VhalennnG/blob/main/images/icons/php.gif" alt="icon" width="70" height="70" /> 
+        <img src="https://github.com/VhalennnG/VhalennnG/blob/main/images/icons/php-icon.gif" alt="icon" width="70" height="70" /> 
       </a> <br>
       PHP
     </td>
