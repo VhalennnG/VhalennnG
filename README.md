@@ -37,7 +37,7 @@
   
 <!--   <img width="55%" align="right" alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api?username=onimur&show_icons=true&hide_border=true" /> -->
   
-  <img width="50%" align="right" alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vhalennng&layout=compact&border_radius=20&bg_color=0d1117&text_color=c9d1d9&title_color=58a6ff&icon_color=58a6ff&hide_border=true" />
+  <img width="48%" align="right" alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vhalennng&layout=compact&border_radius=20&bg_color=0d1117&text_color=c9d1d9&title_color=58a6ff&icon_color=58a6ff&hide_border=true" />
   
 
   <!-- Your languages and tools. Be careful with the alignment. 
@@ -45,25 +45,25 @@
   -->
   <table>
   <tr>
-    <td align="center" width="110">
+    <td align="center" width="100">
       <a href="#tech-stack">
         <img src="https://github.com/VhalennnG/VhalennnG/blob/main/images/icons/cpp-icon.svg" alt="icon" width="85" height="85"/>
       </a> <br>
       C++
     </td>
-    <td align="center" width="110">
+    <td align="center" width="100">
       <a href="#tech-stack">
         <img src="https://github.com/VhalennnG/VhalennnG/blob/main/images/icons/python-icon.svg" alt="icon" width="85" height="85" /> 
       </a> <br>
       Python
     </td>
-    <td align="center" width="110">
+    <td align="center" width="100">
       <a href="#tech-stack">
         <img src="https://github.com/VhalennnG/VhalennnG/blob/main/images/icons/csharp-icon.svg" alt="icon" width="85" height="85" />
       </a> <br>
       C#
     </td>
-    <td align="center" width="110">
+    <td align="center" width="100">
       <a href="#tech-stack">
         <img src="https://github.com/VhalennnG/VhalennnG/blob/main/images/icons/java-icon.svg" alt="icon" width="85" height="85" />
       </a> <br>
@@ -71,25 +71,25 @@
     </td>
   </tr>
   <tr>
-    <td align="center" width="110">
+    <td align="center" width="100">
       <a href="#tech-stack">
         <img src="https://github.com/VhalennnG/VhalennnG/blob/main/images/icons/js-icon.svg" alt="icon" width="85" height="85"/> 
       </a> <br>
       Javascript
     </td>
-    <td align="center" width="110">
+    <td align="center" width="100">
       <a href="#tech-stack">
         <img src="https://github.com/VhalennnG/VhalennnG/blob/main/images/icons/ts-icon.svg" alt="icon" width="85" height="85" /> 
       </a> <br>
       Typescript
     </td>
-    <td align="center" width="110">
+    <td align="center" width="100">
       <a href="#tech-stack">
         <img src="https://github.com/VhalennnG/VhalennnG/blob/main/images/icons/html5.gif" alt="icon" width="85" height="85" /> 
       </a> <br>
       HTML
     </td>
-    <td align="center" width="110">
+    <td align="center" width="100">
       <a href="#tech-stack">
         <img src="https://github.com/VhalennnG/VhalennnG/blob/main/images/icons/css.gif" alt="icon" width="85" height="85" /> 
       </a> <br> 
@@ -97,25 +97,25 @@
     </td>
   </tr>
     <tr>
-    <td align="center" width="110">
+    <td align="center" width="100">
       <a href="#tech-stack">
         <img src="https://github.com/VhalennnG/VhalennnG/blob/main/images/icons/mysql-icon.svg" alt="icon" width="85" height="85" />
       </a>
       MySQL
     </td>
-    <td align="center" width="110">
+    <td align="center" width="100">
       <a href="#tech-stack">
         <img src="https://github.com/VhalennnG/VhalennnG/blob/main/images/icons/kotlin.gif" alt="icon" width="85" height="85" />
       </a>
       Kotlin
     </td>
-    <td align="center" width="110">
+    <td align="center" width="100">
       <a href="#tech-stack">
         <img src="https://github.com/VhalennnG/VhalennnG/blob/main/images/icons/php-icon.gif" alt="icon" width="85" height="85" /> 
       </a> <br>
       PHP
     </td>
-    <td align="center" width="110">
+    <td align="center" width="100">
       <a href="#tech-stack">
         <img src="https://github.com/VhalennnG/VhalennnG/blob/main/images/icons/swift-icon.svg" alt="icon" width="85" height="85" /> 
       </a> <br>
