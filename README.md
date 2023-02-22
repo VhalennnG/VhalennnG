@@ -1,7 +1,5 @@
 <h2> Hello, <a href="https://vhalentinogamgenora.com/">Vhalen</a> here <img src="https://github.com/VhalennnG/VhalennnG/blob/main/images/hello.gif" height="29px" ></h2>
 
-
-## Contact me at <img src="https://github.com/VhalennnG/VhalennnG/blob/main/image/shooting-stars-gradient.gif" width="27"> 
 [![Github Badge](https://img.shields.io/badge/-Github-9B9B9B?style=flat&logo=Github&logoColor=white&link=https://github.com/VhalennnG)](https://github.com/VhalennnG)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vhalentino-gamgenora-0b701a221)](https://www.linkedin.com/in/vhalentino-gamgenora-0b701a221)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:vhalentinog@gmail.com)](mailto:vhalentinog@gmail.com)
@@ -47,98 +45,80 @@
   -->
   <table>
   <tr>
-    <td align="center" width="100">
+    <td align="center" width="110">
       <a href="#tech-stack">
-        <img src="https://github.com/VhalennnG/VhalennnG/blob/main/images/icons/cpp-icon.svg" alt="icon" width="70" height="70"/>
+        <img src="https://github.com/VhalennnG/VhalennnG/blob/main/images/icons/cpp-icon.svg" alt="icon" width="85" height="85"/>
       </a> <br>
       C++
     </td>
-    <td align="center" width="100">
+    <td align="center" width="110">
       <a href="#tech-stack">
-        <img src="https://github.com/VhalennnG/VhalennnG/blob/main/images/icons/python-icon.svg" alt="icon" width="70" height="70" /> 
+        <img src="https://github.com/VhalennnG/VhalennnG/blob/main/images/icons/python-icon.svg" alt="icon" width="85" height="85" /> 
       </a> <br>
       Python
     </td>
-    <td align="center" width="100">
+    <td align="center" width="110">
       <a href="#tech-stack">
-        <img src="https://github.com/VhalennnG/VhalennnG/blob/main/images/icons/csharp-icon.svg" alt="icon" width="70" height="70" />
+        <img src="https://github.com/VhalennnG/VhalennnG/blob/main/images/icons/csharp-icon.svg" alt="icon" width="85" height="85" />
       </a> <br>
       C#
     </td>
-    <td align="center" width="100">
+    <td align="center" width="110">
       <a href="#tech-stack">
-        <img src="https://github.com/VhalennnG/VhalennnG/blob/main/images/icons/java-icon.svg" alt="icon" width="70" height="70" />
+        <img src="https://github.com/VhalennnG/VhalennnG/blob/main/images/icons/java-icon.svg" alt="icon" width="85" height="85" />
       </a> <br>
       Java
-    </td>
-    <td align="center" width="100">
-      <a href="#tech-stack">
-        <img src="https://github.com/VhalennnG/VhalennnG/blob/main/images/icons/swift-icon.svg" alt="icon" width="70" height="70" /> 
-      </a> <br>
-      Swift
     </td>
   </tr>
   <tr>
-    <td align="center" width="100">
+    <td align="center" width="110">
       <a href="#tech-stack">
-        <img src="https://github.com/VhalennnG/VhalennnG/blob/main/images/icons/js-icon.svg" alt="icon" width="70" height="70"/> 
+        <img src="https://github.com/VhalennnG/VhalennnG/blob/main/images/icons/js-icon.svg" alt="icon" width="85" height="85"/> 
       </a> <br>
       Javascript
     </td>
-    <td align="center" width="100">
+    <td align="center" width="110">
       <a href="#tech-stack">
-        <img src="https://github.com/VhalennnG/VhalennnG/blob/main/images/icons/ts-icon.svg" alt="icon" width="70" height="70" /> 
+        <img src="https://github.com/VhalennnG/VhalennnG/blob/main/images/icons/ts-icon.svg" alt="icon" width="85" height="85" /> 
       </a> <br>
       Typescript
     </td>
-    <td align="center" width="100">
+    <td align="center" width="110">
       <a href="#tech-stack">
-        <img src="https://github.com/VhalennnG/VhalennnG/blob/main/images/icons/html5.gif" alt="icon" width="70" height="70" /> 
+        <img src="https://github.com/VhalennnG/VhalennnG/blob/main/images/icons/html5.gif" alt="icon" width="85" height="85" /> 
       </a> <br>
       HTML
     </td>
-    <td align="center" width="100">
+    <td align="center" width="110">
       <a href="#tech-stack">
-        <img src="https://github.com/VhalennnG/VhalennnG/blob/main/images/icons/css.gif" alt="icon" width="70" height="70" /> 
+        <img src="https://github.com/VhalennnG/VhalennnG/blob/main/images/icons/css.gif" alt="icon" width="85" height="85" /> 
       </a> <br> 
       CSS
     </td>
-    <td align="center" width="100">
+  </tr>
+    <tr>
+    <td align="center" width="110">
       <a href="#tech-stack">
-        <img src="https://github.com/VhalennnG/VhalennnG/blob/main/images/icons/php-icon.gif" alt="icon" width="70" height="70" /> 
+        <img src="https://github.com/VhalennnG/VhalennnG/blob/main/images/icons/mysql-icon.svg" alt="icon" width="85" height="85" />
+      </a>
+      MySQL
+    </td>
+    <td align="center" width="110">
+      <a href="#tech-stack">
+        <img src="https://github.com/VhalennnG/VhalennnG/blob/main/images/icons/kotlin.gif" alt="icon" width="85" height="85" />
+      </a>
+      Kotlin
+    </td>
+    <td align="center" width="110">
+      <a href="#tech-stack">
+        <img src="https://github.com/VhalennnG/VhalennnG/blob/main/images/icons/php-icon.gif" alt="icon" width="85" height="85" /> 
       </a> <br>
       PHP
     </td>
-  </tr>
-    <tr>
-    <td align="center" width="100">
+    <td align="center" width="110">
       <a href="#tech-stack">
-        <img src="https://github.com/VhalennnG/VhalennnG/blob/main/images/icons/cpp-icon.svg" alt="icon" width="55" height="55"/>
-      </a>
-      C++
-    </td>
-    <td align="center" width="100">
-      <a href="#tech-stack">
-        <img src="" alt="icon" width="55" height="55" />
-      </a>
-      Python
-    </td>
-    <td align="center" width="100">
-      <a href="#tech-stack">
-        <img src="" alt="icon" width="70" height="70" />
-      </a>
-      C#
-    </td>
-    <td align="center" width="100">
-      <a href="#tech-stack">
-        <img src="" alt="icon" width="70" height="70" />
-      </a>
-      Java
-    </td>
-    <td align="center" width="100">
-      <a href="#tech-stack">
-        <img src="" alt="icon" width="70" height="70" />
-      </a>
+        <img src="https://github.com/VhalennnG/VhalennnG/blob/main/images/icons/swift-icon.svg" alt="icon" width="85" height="85" /> 
+      </a> <br>
       Swift
     </td>
   </tr>
