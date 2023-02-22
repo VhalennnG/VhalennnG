@@ -17,21 +17,20 @@
   collaborate to make products that would make an immediate impact. <br/> 
   
   Besides that, I'm quite interested into :
-  - Digital art like fantasy or cyberpunk city.
+  - Digital art like cyberpunk city.
   - Movies about mistery and crime.
   - Classical Music.
-  - Cinematography like fantasy or myth picture. 
+  - Cinematography like fantasy picture. 
   - Photography like futuristic city in Japan.
   - Traveling.
-  - and I'm quite interested in stars and space objects
   
   Now I’m currently learning about AI. <br/> 
   
 </p>
  
- <h2> Stack </h2>
+<h2> Programming Languages </h2>
  
-**Programming Languages:** 
+**Programming Language I have worked with:** 
 
 <p>
   
