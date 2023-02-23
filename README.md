@@ -127,9 +127,7 @@
 <h2> Favorite Tools and Technologies  </h2>
 
 <p>
-  <a href="https://github.com/onimur/handle-path-oz">
-    <img width="55%" align="right" alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api?username=onimur&show_icons=true&hide_border=true" />
-  </a>
+    <img width="55%" align="right" alt="Vhalen_G's github stats" src="https://github-readme-stats.vercel.app/api?username=vhalennng&show_icons=true&hide_border=true" />
 
   <!-- Your languages and tools. Be careful with the alignment. 
   You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
