@@ -43,8 +43,8 @@
 <table>
   <tr>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
-      <br>C#
+        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
+      <br>C++
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
@@ -57,12 +57,30 @@
       <br>Javascript
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
-      <br>C++
+        <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
+      <br>C#
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
-      <br>Django
+        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
+      <br>Typescript
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
+      <br>Java
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="65" height="65" />
+      <br>Rest
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/swift-icon.svg" alt="icon" width="65" height="65" />
+      <br>Swift
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/gatsby-icon.svg" alt="icon" width="65" height="65" />
+      <br>Gatsby
     </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="65" height="65" />
@@ -73,12 +91,24 @@
       <br>Docker
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="65" height="65" />
-      <br>Rest
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
+      <br>React
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
+      <br>MySQL
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="65" height="65" />
+      <br>Redux
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="65" height="65" />
+      <br>Webpack
     </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="65" height="65" />
-      <br>Kubernetes
+      <br>Kuburnetes
     </td>
   </tr>
   <tr>
@@ -114,35 +144,19 @@
         <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
       <br>PostgreSQL
     </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="redis" />
-      <br>redis
-    </td>
   </tr>
  <tr>
-      <td align="center" width="96">
+    <td align="center" width="96">
         <img src="https://user-images.githubusercontent.com/25181517/186150304-1568ffdf-4c62-4bdc-9cf1-8d8efcea7c5b.png" width="48" height="48" alt="Dart" />
       <br>Dart
     </td>
-        <td align="center" width="96">
+    <td align="center" width="96">
         <img src="https://user-images.githubusercontent.com/25181517/186150365-da1eccce-6201-487c-8649-45e9e99435fd.png" width="48" height="48" alt="Flutter" />
       <br>Flutter
     </td>
-        <td align="center" width="96">
+    <td align="center" width="96">
         <img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" width="48" height="48" alt="Postman" />
       <br>Postman
-    </td>
-          <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt="ASP.NET Core" />
-      <br>ASP.NET
-    </td>
-            <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="mysql" />
-      <br>MySQL
-    </td>
-              <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jquery" />
-      <br>JQuery
     </td>
  </tr>
 </table>
@@ -172,14 +186,6 @@
 
 </details>
 
-## Recent GitHub Activity ✅
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#174](https://github.com/file-validator/file-validator/pull/174) in [file-validator/file-validator](https://github.com/file-validator/file-validator)
-2. 💪 Opened PR [#174](https://github.com/file-validator/file-validator/pull/174) in [file-validator/file-validator](https://github.com/file-validator/file-validator)
-3. 🎉 Merged PR [#173](https://github.com/file-validator/file-validator/pull/173) in [file-validator/file-validator](https://github.com/file-validator/file-validator)
-4. 💪 Opened PR [#173](https://github.com/file-validator/file-validator/pull/173) in [file-validator/file-validator](https://github.com/file-validator/file-validator)
-5. 🎉 Merged PR [#172](https://github.com/file-validator/file-validator/pull/172) in [file-validator/file-validator](https://github.com/file-validator/file-validator)
-<!--END_SECTION:activity-->
 
 ## GitHub Profile Trophy 🏆
 [![trophy](https://github-profile-trophy.vercel.app/?username=vhalennng&row=1&margin-w=40)](https://github.com/ryo-ma/github-profile-trophy)
