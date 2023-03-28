@@ -242,7 +242,7 @@
 </details>
 
 
-## GitHub Profile Trophy <img src="https://github.com/VhalennnG/VhalennnG/blob/main/images/achiev.gif" height="27px" >
+## GitHub Profile Trophy <img src="https://github.com/VhalennnG/VhalennnG/blob/main/images/achiev.gif" height="29px" >
 [![trophy](https://github-profile-trophy.vercel.app/?username=vhalennng&row=1&margin-w=40)](https://github.com/ryo-ma/github-profile-trophy)
   
 
