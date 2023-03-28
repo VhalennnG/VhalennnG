@@ -8,7 +8,7 @@
 [![Reddit Badge](https://img.shields.io/badge/-Reddit-FF4500?style=flat&logo=Reddit&logoColor=white&link=https://www.reddit.com/user/Vhalen_G)](https://www.reddit.com/user/Vhalen_G)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white&link=https://twitter.com/vhalen_g?t=SC5QSDTBjJo-RPNxigDvMg&s=09)](https://twitter.com/vhalen_g?t=SC5QSDTBjJo-RPNxigDvMg&s=09)
 
-<h2> About Me  <img src="https://github.com/VhalennnG/VhalennnG/blob/main/image/shooting-stars-gradient.gif" width="28" margin="20"> </h2>
+<h2> About Me <img src="https://github.com/VhalennnG/VhalennnG/blob/main/images/about.gif" height="29px"> </h2>
 <p> 
   <img align="right" alt="Onimur's github stats" src="https://github.com/VhalennnG/VhalennnG/blob/main/images/AI.gif" width="50%" />
   I'm a freelance software engineer based in Indonesia.
@@ -35,9 +35,10 @@
   
 
   
+<!-- <h2> My favorite tools and technologies <img src="https://github.com/VhalennnG/VhalennnG/blob/main/images/hello.gif" height="29px" ></h2> -->
   
 
-## My favorite tools and technologies ⚙️ 
+## My favorite tools and technologies <img src="https://github.com/VhalennnG/VhalennnG/blob/main/images/tech.gif" height="40px" >
 
 > Tools and technologies that I have worked with and am interested in
 <table>
@@ -216,7 +217,7 @@
 </table>
 
 
-## Github stats 📊 
+## Github stats <img src="https://github.com/VhalennnG/VhalennnG/blob/main/images/stats.gif" height="29px" >
 
 <details> 
   <summary>GitHub Profile Stats 💻</summary>
@@ -241,7 +242,7 @@
 </details>
 
 
-## GitHub Profile Trophy 🏆
+## GitHub Profile Trophy <img src="https://github.com/VhalennnG/VhalennnG/blob/main/images/achiev.gif" height="27px" >
 [![trophy](https://github-profile-trophy.vercel.app/?username=vhalennng&row=1&margin-w=40)](https://github.com/ryo-ma/github-profile-trophy)
   
 
