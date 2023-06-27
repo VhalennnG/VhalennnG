@@ -5,8 +5,8 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:vhalentinog@gmail.com)](mailto:vhalentinog@gmail.com)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-26A5E4?style=flat&logo=Telegram&logoColor=white&link=https://t.me/Vhalen_G)](https://t.me/Vhalen_G)
 [![Discord Badge](https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=Discord&logoColor=white&link=https://discordapp.com/users/688687260148957185)](https://discordapp.com/users/688687260148957185)
-[![Reddit Badge](https://img.shields.io/badge/-Reddit-FF4500?style=flat&logo=Reddit&logoColor=white&link=https://www.reddit.com/user/Vhalen_G)](https://www.reddit.com/user/Vhalen_G)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white&link=https://twitter.com/vhalen_g?t=SC5QSDTBjJo-RPNxigDvMg&s=09)](https://twitter.com/vhalen_g?t=SC5QSDTBjJo-RPNxigDvMg&s=09)
+<!-- [![Reddit Badge](https://img.shields.io/badge/-Reddit-FF4500?style=flat&logo=Reddit&logoColor=white&link=https://www.reddit.com/user/Vhalen_G)](https://www.reddit.com/user/Vhalen_G) -->
+<!-- [![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white&link=https://twitter.com/vhalen_g?t=SC5QSDTBjJo-RPNxigDvMg&s=09)](https://twitter.com/vhalen_g?t=SC5QSDTBjJo-RPNxigDvMg&s=09) -->
 
 <h2> About Me <img src="https://github.com/VhalennnG/VhalennnG/blob/main/images/about.gif" height="29px"> </h2>
 <p> 
