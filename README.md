@@ -222,17 +222,17 @@
 <details> 
   <summary>GitHub Profile Stats 💻</summary>
   <br/>
-    <a href="https://github.com/vhalennng/github-readme-stats"><img alt="Vhalen_G's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=vhalennng&show_icons=true&count_private=true&theme=highcontrast&bg_color=000&title_color=00FFFF&icon_color=5D3FD3&border_color=191970" height="192px"/></a>
+    <!--<a href="https://github.com/vhalennng/github-readme-stats"><img alt="Vhalen_G's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=vhalennng&show_icons=true&count_private=true&theme=highcontrast&bg_color=000&title_color=00FFFF&icon_color=5D3FD3&border_color=191970" height="192px"/></a>-->
     <a href="https://github.com/vhalennng/github-readme-stats"><img alt="Vhalen_G's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vhalennng&langs_count=8&layout=compact&theme=highcontrast&bg_color=000&title_color=00FFFF&border_color=191970" height="192px"/></a>
   <br/>
 </details>
 
-<details>
+<!--<details>
   <summary>Activity Graph 📈</summary>
   <br/>
  
 <a href="https://github.com/vhalennng/github-readme-activity-graph"><img alt="Vhalen_G's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=vhalennng&bg_color=000&color=FFB6C1&line=FFF5EE&point=DC143C&area=true&border_color=E30B5C" /></a>
-</details>
+</details>-->
 
 <details>
   <summary>Profile Views 👁️</summary>
