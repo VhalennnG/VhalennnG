@@ -11,7 +11,7 @@
 <h2> About Me <img src="https://github.com/VhalennnG/VhalennnG/blob/main/images/about.gif" height="29px"> </h2>
 <p> 
   <img align="right" alt="Onimur's github stats" src="https://github.com/VhalennnG/VhalennnG/blob/main/images/AI.gif" width="50%" />
-  I'm a freelance software engineer based in Indonesia.
+  I'm a software engineer based in Indonesia.
   I'm a 100% self-taught engineer, a fast learner, and a detail-oriented creator. <br/>
   My passion is to work with extremely talented people 
   collaborate to make products that would make an immediate impact. <br/> 
