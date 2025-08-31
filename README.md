@@ -17,11 +17,10 @@
   collaborate to make products that would make an immediate impact. <br/> 
   
   Besides that, I'm quite interested into :
-  - Digital art like cyberpunk city.
-  - Movies about mistery and crime.
+  - Cyberpunk digital art.
+  - Mistery and crime movies.
   - Classical Music.
-  - Cinematography like fantasy picture. 
-  - Photography like futuristic city in Japan.
+  - Cinematography. 
   - Traveling.
   
   Now I’m currently learning about AI. <br/> 
