@@ -221,31 +221,32 @@
 <details> 
   <summary>GitHub Profile Stats 💻</summary>
   <br/>
-    <!--<a href="https://github.com/vhalennng/github-readme-stats"><img alt="Vhalen_G's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=vhalennng&show_icons=true&count_private=true&theme=highcontrast&bg_color=000&title_color=00FFFF&icon_color=5D3FD3&border_color=191970" height="192px"/></a>-->
-    <!-- <a href="https://github.com/vhalennng/github-readme-stats"><img alt="Vhalen_G's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vhalennng&langs_count=8&layout=compact&theme=highcontrast&bg_color=000&title_color=00FFFF&border_color=191970" height="192px"/></a> -->
+  <a href="https://github.com/vhalennng/github-readme-stats"><img alt="Vhalen_G's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=vhalennng&show_icons=true&count_private=true&theme=highcontrast&bg_color=000&title_color=00FFFF&icon_color=5D3FD3&border_color=191970" height="192px"/></a>
+  <a href="https://github.com/vhalennng/github-readme-stats"><img alt="Vhalen_G's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vhalennng&langs_count=8&layout=compact&theme=highcontrast&bg_color=000&title_color=00FFFF&border_color=191970" height="192px"/></a>
   <br/>
 </details>
 
-<!--<details>
+<details>
+  <summary>GitHub Streak 🔥</summary>
+  <br/>
+  <img alt="Vhalen_G's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=vhalennng&theme=highcontrast&background=000000&border=191970" height="192px"/>
+  <br/>
+</details>
+
+<details>
   <summary>Activity Graph 📈</summary>
   <br/>
- 
-<a href="https://github.com/vhalennng/github-readme-activity-graph"><img alt="Vhalen_G's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=vhalennng&bg_color=000&color=FFB6C1&line=FFF5EE&point=DC143C&area=true&border_color=E30B5C" /></a>
-</details>-->
+  <a href="https://github.com/vhalennng/github-readme-activity-graph"><img alt="Vhalen_G's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=vhalennng&bg_color=000&color=FFB6C1&line=FFF5EE&point=DC143C&area=true&hide_border=true" /></a>
+</details>
+
+<details>
+  <summary>GitHub Trophy 🏆</summary>
+  <br/>
+  <img alt="Vhalen_G's Trophy" src="https://github-profile-trophy.vercel.app/?username=vhalennng&theme=darkhub&no-frame=true&row=1&column=6" />
+</details>
 
 <details>
   <summary>Profile Views 👁️</summary>
   <br/>
   <img src="https://komarev.com/ghpvc/?username=vhalennng&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen">
-
 </details>
-
-
-<!-- ## GitHub Profile Trophy <img src="https://github.com/VhalennnG/VhalennnG/blob/main/images/achiev.gif" height="29px" > -->
-<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=vhalennng&row=1&margin-w=40)](https://github.com/ryo-ma/github-profile-trophy) -->
-  
-
-<!-- ![vhalennng's Github Stats](https://github-readme-stats.vercel.app/api?username=vhalennng&show_icons=true&border_radius=20&bg_color=0d1117&text_color=c9d1d9&title_color=58a6ff&icon_color=58a6ff&hide_border=true)<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vhalennng&layout=compact&border_radius=20&bg_color=0d1117&text_color=c9d1d9&title_color=58a6ff&icon_color=58a6ff&hide_border=true)
-
- -->
